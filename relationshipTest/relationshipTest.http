@@ -1,0 +1,6 @@
+@relationshipTest_HostAddress = http://localhost:5182
+
+GET {{relationshipTest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

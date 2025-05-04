@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "relationshipTest", "relationshipTest\relationshipTest.csproj", "{254BC3D8-2650-4E96-A6CE-8D0BCC51B3A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{254BC3D8-2650-4E96-A6CE-8D0BCC51B3A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{254BC3D8-2650-4E96-A6CE-8D0BCC51B3A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{254BC3D8-2650-4E96-A6CE-8D0BCC51B3A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{254BC3D8-2650-4E96-A6CE-8D0BCC51B3A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2938E01C-97EF-4531-94EE-B3508C2BA6A2}
+	EndGlobalSection
+EndGlobal
